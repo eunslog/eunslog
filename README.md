@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4.svg?&style=for-the-badge&logo=OpenGL&logoColor=white)
 
 <!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white) -->
@@ -47,7 +48,6 @@ Here are some ideas to get you started:
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white)
 
-#5586A4
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunslog&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
