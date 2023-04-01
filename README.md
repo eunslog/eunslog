@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=0:FFA07A,100:a82da8&height=300&section=header&text=WELCOME!&animation=fadeIn&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=0:FFA07A,100:a82da8&height=300&section=header&text=WELCOME!&animation=fadeIn&fontSize=90&desc=eunslog's%20GitHub%20Profile&descAlignY=51&descAlign=62" />
+# 
+
 
 # 💪Skills
 ### Platforms & Languages
