@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=0:FFA07A,100:a82da8&height=300&section=header&text=WELCOME!&animation=fadeIn&fontSize=90" />
 
-![eunslog GitHub stats](https://github-readme-stats.vercel.app/api?username=eunslog&show_icons=true&theme=radical)
-
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -48,6 +46,8 @@ Here are some ideas to get you started:
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white)
 
+
+![eunslog GitHub stats](https://github-readme-stats.vercel.app/api?username=eunslog&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunslog&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
