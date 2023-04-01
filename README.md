@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white)
 
 
-![eunslog GitHub stats](https://github-readme-stats.vercel.app/api?username=eunslog&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunslog&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![eunslog GitHub stats](https://github-readme-stats.vercel.app/api?username=eunslog&show_icons=true&theme=radical)         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunslog&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://codingtoday.tistory.com/)](https://codingtoday.tistory.com)
